@@ -1,15 +1,12 @@
-import { useState } from 'react'
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-
+import HomeLayout from './layouts/HomeLayout/HomeLayout'
 function App() {
-  const [count, setCount] = useState(0)
-
   return (
     <>
       <BrowserRouter>
         <Routes>
-          <Route path='/' element={<img className='w-full' src='../src/assets/logo.svg'/>}></Route>
+          <Route path='/' element={<HomeLayout></HomeLayout>} ></Route>
         </Routes>
       </BrowserRouter>
     </>

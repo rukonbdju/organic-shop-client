@@ -1,0 +1,374 @@
+[
+    {
+        "_id": "product123",
+        "title": "Organic Apples",
+        "description": "Fresh and juicy organic apples straight from the orchard.",
+        "price": 2.99,
+        "imageUrls": [
+            "https://example.com/images/apple1.jpg",
+            "https://example.com/images/apple2.jpg"
+        ],
+        "stockQuantity": 50,
+        "category": "Fruits",
+        "nutritionalInformation": {
+            "calories": 95,
+            "carbohydrates": 25,
+            "fiber": 4,
+            "vitaminC": 14
+        },
+        "weight": "per apple (150g)",
+        "origin": "Local orchard",
+        "certifications": [
+            "USDA Organic"
+        ],
+        "availability": true,
+        "customerReviews": [
+            {
+                "userId": "user1",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user1",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user2",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user2",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user3",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user3",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            }
+        ],
+        "tags": [
+            "organic",
+            "fruit",
+            "healthy"
+        ],
+        "promotions": [
+            {
+                "code": "organic",
+                "discount": "5"
+            },
+            {
+                "code": "KF",
+                "discount": "3"
+            }
+        ]
+    },
+    {
+        "_id": "product1234",
+        "title": "Organic Apples",
+        "description": "Fresh and juicy organic apples straight from the orchard.",
+        "price": 2.99,
+        "imageUrls": [
+            "https://example.com/images/apple1.jpg",
+            "https://example.com/images/apple2.jpg"
+        ],
+        "stockQuantity": 50,
+        "category": "Fruits",
+        "nutritionalInformation": {
+            "calories": 95,
+            "carbohydrates": 25,
+            "fiber": 4,
+            "vitaminC": 14
+        },
+        "weight": "per apple (150g)",
+        "origin": "Local orchard",
+        "certifications": [
+            "USDA Organic"
+        ],
+        "availability": true,
+        "customerReviews": [
+            {
+                "userId": "user1",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user1",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user2",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user2",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user3",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user3",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            }
+        ],
+        "tags": [
+            "organic",
+            "fruit",
+            "healthy"
+        ],
+        "promotions": [
+            {
+                "code": "organic",
+                "discount": "5"
+            },
+            {
+                "code": "KF",
+                "discount": "3"
+            }
+        ]
+    },
+    {
+        "_id": "product12345",
+        "title": "Organic Apples",
+        "description": "Fresh and juicy organic apples straight from the orchard.",
+        "price": 2.99,
+        "imageUrls": [
+            "https://example.com/images/apple1.jpg",
+            "https://example.com/images/apple2.jpg"
+        ],
+        "stockQuantity": 50,
+        "category": "Fruits",
+        "nutritionalInformation": {
+            "calories": 95,
+            "carbohydrates": 25,
+            "fiber": 4,
+            "vitaminC": 14
+        },
+        "weight": "per apple (150g)",
+        "origin": "Local orchard",
+        "certifications": [
+            "USDA Organic"
+        ],
+        "availability": true,
+        "customerReviews": [
+            {
+                "userId": "user1",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user1",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user2",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user2",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user3",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user3",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            }
+        ],
+        "tags": [
+            "organic",
+            "fruit",
+            "healthy"
+        ],
+        "promotions": [
+            {
+                "code": "organic",
+                "discount": "5"
+            },
+            {
+                "code": "KF",
+                "discount": "3"
+            }
+        ]
+    },
+    {
+        "_id": "product123456",
+        "title": "Organic Apples",
+        "description": "Fresh and juicy organic apples straight from the orchard.",
+        "price": 2.99,
+        "imageUrls": [
+            "https://example.com/images/apple1.jpg",
+            "https://example.com/images/apple2.jpg"
+        ],
+        "stockQuantity": 50,
+        "category": "Fruits",
+        "nutritionalInformation": {
+            "calories": 95,
+            "carbohydrates": 25,
+            "fiber": 4,
+            "vitaminC": 14
+        },
+        "weight": "per apple (150g)",
+        "origin": "Local orchard",
+        "certifications": [
+            "USDA Organic"
+        ],
+        "availability": true,
+        "customerReviews": [
+            {
+                "userId": "user1",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user1",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user2",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user2",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user3",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user3",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            }
+        ],
+        "tags": [
+            "organic",
+            "fruit",
+            "healthy"
+        ],
+        "promotions": [
+            {
+                "code": "organic",
+                "discount": "5"
+            },
+            {
+                "code": "KF",
+                "discount": "3"
+            }
+        ]
+    },
+    {
+        "_id": "product1234567",
+        "title": "Organic Apples",
+        "description": "Fresh and juicy organic apples straight from the orchard.",
+        "price": 2.99,
+        "imageUrls": [
+            "https://example.com/images/apple1.jpg",
+            "https://example.com/images/apple2.jpg"
+        ],
+        "stockQuantity": 50,
+        "category": "Fruits",
+        "nutritionalInformation": {
+            "calories": 95,
+            "carbohydrates": 25,
+            "fiber": 4,
+            "vitaminC": 14
+        },
+        "weight": "per apple (150g)",
+        "origin": "Local orchard",
+        "certifications": [
+            "USDA Organic"
+        ],
+        "availability": true,
+        "customerReviews": [
+            {
+                "userId": "user1",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user1",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user2",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user2",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user3",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user3",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            }
+        ],
+        "tags": [
+            "organic",
+            "fruit",
+            "healthy"
+        ],
+        "promotions": [
+            {
+                "code": "organic",
+                "discount": "5"
+            },
+            {
+                "code": "KF",
+                "discount": "3"
+            }
+        ]
+    },
+    {
+        "_id": "product12345678",
+        "title": "Organic Apples",
+        "description": "Fresh and juicy organic apples straight from the orchard.",
+        "price": 2.99,
+        "imageUrls": [
+            "https://example.com/images/apple1.jpg",
+            "https://example.com/images/apple2.jpg"
+        ],
+        "stockQuantity": 50,
+        "category": "Fruits",
+        "nutritionalInformation": {
+            "calories": 95,
+            "carbohydrates": 25,
+            "fiber": 4,
+            "vitaminC": 14
+        },
+        "weight": "per apple (150g)",
+        "origin": "Local orchard",
+        "certifications": [
+            "USDA Organic"
+        ],
+        "availability": true,
+        "customerReviews": [
+            {
+                "userId": "user1",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user1",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user2",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user2",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            },
+            {
+                "userId": "user3",
+                "username": "organiclover",
+                "photoUrl": "https://example.com/user3",
+                "rating": 5,
+                "review": "These apples are fantastic! Very fresh and delicious."
+            }
+        ],
+        "tags": [
+            "organic",
+            "fruit",
+            "healthy"
+        ],
+        "promotions": [
+            {
+                "code": "organic",
+                "discount": "5"
+            },
+            {
+                "code": "KF",
+                "discount": "3"
+            }
+        ]
+    }
+]

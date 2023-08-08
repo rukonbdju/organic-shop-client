@@ -10,8 +10,7 @@ const Product = ({ product }) => {
                 </div>
                 <div className="absolute top-2 right-2 hidden group-hover:flex flex-col gap-2">
                     <button className="text-slate-50 uppercase rounded-full hover:shadow-xl p-2 shadow-orange-700 bg-orange-700">add to Cart</button>
-                    <Link to={`/products/${product._id}`}><button  className="text-slate-50 uppercase rounded-full hover:shadow-xl p-2 shadow-orange-700 bg-orange-700">view details</button></Link>
-                    
+                    <Link to={`/products/${product._id}`}><button  className="text-slate-50 uppercase rounded-full hover:shadow-xl p-2 shadow-orange-700 bg-orange-700">view details</button></Link> 
                 </div>
             </div>
             <div className="my-2">

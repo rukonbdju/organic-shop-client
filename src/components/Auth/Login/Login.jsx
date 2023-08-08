@@ -1,4 +1,6 @@
 import { Link } from "react-router-dom";
+import signInWithGoogle from "../../../utilities/FirebaseAuth/signInWithGoogle";
+import signInWithEmail from "../../../utilities/FirebaseAuth/signInWithEmail";
 
 const Login = () => {
     return (
@@ -13,7 +15,7 @@ const Login = () => {
                 </div>
                 <form className=" flex flex-col items-center justify-center gap-4">
                     <input
-                        required
+                        
                         className="w-full p-2 border-2 border-orange-200 rounded-lg outline-orange-700"
                         placeholder="Enter Email"
                         type="email"
@@ -21,7 +23,7 @@ const Login = () => {
                         id="email"
                     />
                     <input
-                        required
+                       
                         className="w-full p-2 border-2 border-orange-200 rounded-lg outline-orange-700"
                         placeholder="Enter Password"
                         type="password"
@@ -43,7 +45,7 @@ const Login = () => {
                     <span className="uppercase ">or</span>
                     <span className="inline-block border-b  border-slate-700 w-full"></span>
                 </div>
-                <button className="w-full font-bold rounded-lg shadow-xl bg-gradient-to-r from-orange-500 to-orange-700 text-slate-100 px-4 uppercase py-2">continue with google</button>
+                <button onClick={async()=>console.log(await signInWithEmail('sdkjf;kl','dshkj'))} className="w-full font-bold rounded-lg shadow-xl bg-gradient-to-r from-orange-500 to-orange-700 text-slate-100 px-4 uppercase py-2">continue with google</button>
                 <p className="mt-4">
                     <span>New user? Please register</span>{" "}
                     <Link

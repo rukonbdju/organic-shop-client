@@ -6,7 +6,6 @@ const useProducts = () => {
         const fetchData = async () => {
             const response = await fetch('/fakeDB.json')
             const data = await response.json()
-            console.log(data)
             setProducts(data)
         }
         fetchData()
